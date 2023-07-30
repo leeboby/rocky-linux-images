@@ -4,4 +4,8 @@
 
 开发板 | 镜像类型 | 下载 |
 |:--|:--|:--|
-| opi5plus | 服务器 | [下载链接](https://github.com/leeboby/rocky-linux-images/releases/download/20230611/opi5plus-rocky-9.2-aarch64-cli-20230611.img.xz)|  
+| opi5plus | 服务器 | [下载链接](https://github.com/leeboby/rocky-linux-images/releases/download/20230611/opi5plus-rocky-9.2-aarch64-cli-20230611.img.xz)|
+
+## 登录账号和密码
+
+登录账号和密码都是: orangepi
